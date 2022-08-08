@@ -1,12 +1,10 @@
 ### Hi, I'm I Made Adi Susilayasa.
-#### Fresh graduate with 2 year programming experience. Has created two academic journals with topics of natural language processing and forecasting.
-
-
+#### Fresh graduate with 2 year programming experience. Has created two academic journals with topics of natural language processing and forecasting. Currently taking roles as back-end developer using Golang.
 
 ### About me:
 
 - 🌱 I’m currently learning Golang as Back-End
-- :bulb: I’m interested in Software Engineer and Data Engineer
+- :bulb:   I’m interested in Software Engineer and Data Engineer
 - 😄 Pronouns: He/His/Him
 
 ### Things I code with:
