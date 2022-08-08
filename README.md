@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi, I'm I Made Adi Susilayasa 👋
 
 
 
 ### About me:
 
-- 🌱 I’m currently learning JavaScript and NodeJS
-- 👯 I’m looking to collaborate on any kind of web dev
-- 🤔 I’m looking for help with any kind of web dev
+- 🌱 I’m currently learning Golang as Back-End
+- :bulb:  I’m looking to collaborate on any kind of web dev
+- 🤔 I’m interested in Software Engineer and Data Engineer
 - 😄 Pronouns: He/His/Him
 
 ### Things I code with:
