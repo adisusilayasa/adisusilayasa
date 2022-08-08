@@ -1,6 +1,5 @@
 ### Hi, I'm I Made Adi Susilayasa.
-### Fresh graduate with 2 year programming experience.
-### Has created two academic journals with topics of natural language processing and forecasting.
+#### Fresh graduate with 2 year programming experience. Has created two academic journals with topics of natural language processing and forecasting.
 
 
 
