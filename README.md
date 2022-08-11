@@ -1,5 +1,5 @@
 ### Hi, I'm I Made Adi Susilayasa.
-#### Fresh graduate with 2 year programming experience. Has created two academic journals with topics of natural language processing and forecasting. Currently taking roles as back-end developer using Golang.
+#### Fresh graduate with 2 year programming experience. Has created two academic journals with topics of natural language processing and forecasting. Currently taking roles as back-end developer using Golang. I have experience on MLops using python(flask).
 
 ### About me:
 
