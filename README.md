@@ -3,7 +3,6 @@
 
 ### About me:
 
-- 🌱 I’m currently learning Golang as Back-End
 - :bulb:   I’m interested in Software Engineer and Data Engineer
 - 😄 Pronouns: He/His/Him
 
