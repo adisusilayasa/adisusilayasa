@@ -1,5 +1,5 @@
 ### Hi, I'm I Made Adi Susilayasa.
-#### As a Software Engineer with a passion for Data Engineering, Data Science, and Cloud Computing, I bring a unique perspective to the development process. In addition to my experience in software design, development, and testing, I have completed a Cloud Computing path from Bangkit Academy. This program equipped me with skills in cloud infrastructure, virtual machines, containerization, and deployment of cloud-based applications. Furthermore, I have completed a Data Engineering and Data Science bootcamp from Digital Skola, which has given me experience in data modeling, ETL processes, data warehousing, machine learning, and data analysis. My dedication to using my expertise in both software engineering and data engineering/data science/cloud computing has allowed me to design and develop high-quality software solutions that are efficient, reliable, and scalable.
+#### Software Engineer experience in building, maintaining, and documenting multiple functionalities in corporate technology services and infrastructure. Proficient in Golang, Python, NodeJS, Java, integration with internal or external systems, and writing well-designed, maintainable, reliable, and testable code. Strong commitment to following best engineering practices and ensuring the direction of the technical environment.
 
 ### About me:
 
